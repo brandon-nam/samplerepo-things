@@ -2,3 +2,4 @@ apples
 berries
 cherries
 New fruit: durian
+New fruit in add-intro: orange
