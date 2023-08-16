@@ -3,3 +3,4 @@ red
 white
 New color: purple
 New color in feature1: green
+Another color in feature1: yellow
